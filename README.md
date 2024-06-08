@@ -7,7 +7,7 @@
 ## 网站简介
 
 打字侠网站是一个专注于提升中小学生打字速度和准确率的在线平台。网站设计简洁明了，操作简单，适合各个年龄段的学生使用。无论是初学者还是有一定基础的学生，都能在这里找到适合自己的练习内容。
-![打字侠首页](https://hellotyping.obs.cn-south-1.myhuaweicloud.com/content/images/new-banner.png)
+![打字侠首页](./hellotyping.png)
 
 ## 主要功能
 
